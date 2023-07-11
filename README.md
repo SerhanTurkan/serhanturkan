@@ -1,4 +1,7 @@
-## Hi there, I'm Serhan Türkan 👋
+## Hi there, I'm Serhan 👋
+
+I don't have much to showcase on GitHub because the majority of my coding revolves around money-making projects.
+
 <p > <img src="https://komarev.com/ghpvc/?username=serhanturkan" alt="serhanturkan" /> </p>
 
 
